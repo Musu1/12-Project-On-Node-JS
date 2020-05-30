@@ -1,0 +1,11 @@
+{
+  "name": "serving_html_pages",
+  "version": "1.0.0",
+  "description": "Serving html pages",
+  "main": "BasicServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muskan Agarwal",
+  "license": "ISC"
+}
