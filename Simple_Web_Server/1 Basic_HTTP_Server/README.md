@@ -1,12 +1,12 @@
-﻿Steps followed to make a basic HTTP server.
+﻿# Steps followed to make a basic HTTP server.
 
 1. First Install node.js in your pc from this [link](nodejs.org)
 2. After this we need to go to our application direcctory which is Basic_HTTP_Server for me.
 3. Now All node.js application must have a file called `Package.json`.This is a JSON file which holds a lot of different information like application name,description and also we have to list all the dependency modulesthat we want to use.I am going to use `Git Bash` for the same.
 
-       a.Use the command `npm init` in the git bash.
+      a.Use the command `npm init` in the git bash.
        
-       b.Fill in the details as shown in the below image.
+      b.Fill in the details as shown in the below image.
       ![Package installation image](Images/Package_json_creation.PNG)
 
 This will create the `Package.json` file in this directory.
