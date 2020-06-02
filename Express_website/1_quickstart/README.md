@@ -18,7 +18,7 @@ We are also going to use **body-parser** module that will help to parse data inc
 3. After adding dependencies we need to install them. Use command `npm install`. This will also create a folder named `node modules` which will have our dependencies.
 4. Now write in `app.js` file.
 5. We can see the output using command: `node app.js` 
-![OUTPUT](Images/output.png)\
+![OUTPUT](Images/output.png)
 
 ## Findings
 
